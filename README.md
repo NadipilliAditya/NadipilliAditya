@@ -11,11 +11,9 @@ I am Nadipilli Aditya, a Computer Science student specializing in Artificial Int
 👀 **Areas of Interest:**  
 - Artificial Intelligence  
 - Machine Learning  
-- Robotics  
 - Full Stack Development  
 
-🌱 **Currently Learning:**  
-I am deepening my expertise in Natural Language Processing, Computer Vision, and Robotics, aiming to integrate these skills into innovative projects.
+
 
 💼 **Looking to Collaborate On:**  
 I am open to collaborating on AI-driven projects, cutting-edge robotics applications, and full stack development ventures.
@@ -28,5 +26,3 @@ Feel free to reach out to me at nadipalliaditya7@gmail.com.
 
 😄 **Pronouns:** He/Him
 
-⚡ **Fun Fact:**  
-I am an active member of Toastmasters International, where I continuously hone my public speaking and leadership skills.
